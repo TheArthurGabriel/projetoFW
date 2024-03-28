@@ -1,0 +1,54 @@
+html {
+    overflow-y: scroll;
+  }
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.principal{
+    background-color: #80b4a4;
+}
+
+.imagem_produto{
+    width: 600px;
+    height: 650px;
+}
+
+.outras_imagem_produto{
+    width: 180px;
+    height: 200px;
+}
+
+#menu_direito{
+    width: 45%;
+}
+
+#imagens_inferior img:hover {
+    transform: scale(1.25);
+}
+
+#menu_esquerdo{
+    width: 55%;
+    height: 600px;
+}
+
+#preco{
+    font-size: 12px;
+    color: #35b6f2;
+}
+
+.valor_icon{
+    background-color: #dcdcdc;
+    width: 80px;
+    height: 40px;
+}
+
+.caixa_numeros{
+    width: 40px;
+    height: 100%;
+}
+
+.altura_20{
+    height: 10%;  
+}
